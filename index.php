@@ -225,7 +225,7 @@
 							</p>
 							<a class="button ghost" data-ding="inlay" href="#">Inlay konfigurieren</a>
 							<a class="button ghost" data-ding="patches" href="#">Patches konfigurieren</a>
-							<a class="button ghost" data-ding="trappings" href="#">Trappings konfigurieren</a
+							<a class="button ghost" data-ding="trappings" href="#">Trappings konfigurieren</a>
 						</div>
 					</div>
 					<div class="col onethird">

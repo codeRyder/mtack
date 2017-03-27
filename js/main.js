@@ -324,9 +324,11 @@ $(document).ready(function() {
 	$('.split-section .button').mouseenter(function(){
 		var hoverItem = $(this).data('ding');
 		itemImage = $('.split-section .img-container .' + hoverItem);
-		if(!$('.split-section .img-container img').hasClass(hoverItem)){
-			$('.split-section .img-container img').removeClass('visible');
-		}
+		$('.split-section .img-container img').each(function(){
+			if(!$(this).hasClass(hoverItem)){
+				$(this).siblings().removeClass('visible');
+			}
+		});
 		$('.split-section .img-container .' + hoverItem).addClass('visible');
 	});
 
