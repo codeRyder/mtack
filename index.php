@@ -219,7 +219,7 @@
 				<div class="row">
 					<div class="col twothirds">
 						<div class="split-content">
-							<h1>Konfiguriere<span>dein eigenes Produkt</h1>
+							<h2 class="h1">Konfiguriere<span>dein eigenes Produkt</h2>
 							<p>
 								Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 							</p>
@@ -233,11 +233,43 @@
 							<div class="split"></div>
 							<div class="img-container">
 								<img class="patches visible" src="images/demo-patch.png" alt="Demo Patch" />
-								<img class="inlay" src="images/demo-patch.png" alt="Demo Patch" />
-								<img class="trappings" src="images/demo-patch.png" alt="Demo Patch" />
+								<img class="inlay" src="images/demo-inlay.png" alt="Demo Inlay" />
+								<img class="trappings" src="images/demo-trappings.png" alt="Demo Trappings" />
 							</div>
 						</div>
-
+					</div>
+				</div>
+			</section>
+			<section id="lookbook-teaser" class="grey-bg">
+				<div class="row row-padding slim-section ">
+					<div class="col onethird">
+						<div class="row row-padding">
+							<div class="col onethird">
+								<img src="demo-lookbook-image-1.jpg" alt="Lookbook Image" />
+							</div>
+							<div class="col onethird">
+								<img src="demo-lookbook-image-2.jpg" alt="Lookbook Image" />
+							</div>
+							<div class="col onethird">
+								<img src="demo-lookbook-image-3.jpg" alt="Lookbook Image" />
+							</div>
+							<div class="col onethird">
+								<img src="demo-lookbook-image-4.jpg" alt="Lookbook Image" />
+							</div>
+							<div class="col onethird">
+								<img src="demo-lookbook-image-5.jpg" alt="Lookbook Image" />
+							</div>
+							<div class="col onethird">
+								<img src="demo-lookbook-image-6.jpg" alt="Lookbook Image" />
+							</div>
+						</div>
+					</div>
+					<div class="col twothirds">
+						<h2 class="h1">Dein Style und viele mehr <span>in unserem Lookbook</span></h2>
+						<p>
+							Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+						</p>
+						<a class="button solid" href="#">Lookbok ansehen</a><a class="button solid" href="#">Style einsenden</a>
 					</div>
 				</div>
 			</section>
@@ -248,28 +280,8 @@
 						Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 					</p>
 				</div>
-				<div class="col onethird">
-					<h1>Col onethird</h1>
-					<p>
-						Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-					</p>
-				</div>
-				<div class="col onethird">
-					<h1>Col onethird</h1>
-					<p>
-						Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-					</p>
-				</div>
-			</div>
-			<div class="row row-padding">
-				<div class="col onethird">
-					<h1>Col onethird</h1>
-					<p>
-						Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-					</p>
-				</div>
 				<div class="col twothirds">
-					<article style="height: 100%">
+					<article>
 					<h1>Col twothirds</h1>
 					<p>
 						Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
