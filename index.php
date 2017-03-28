@@ -244,23 +244,17 @@
 				<div class="row row-padding slim-section ">
 					<div class="col onethird">
 						<div class="row row-padding">
-							<div class="col onethird">
-								<img src="demo-lookbook-image-1.jpg" alt="Lookbook Image" />
+							<div class="col half">
+								<img src="images/demo-lookbook-image-1.jpg" alt="Lookbook Image" />
 							</div>
-							<div class="col onethird">
-								<img src="demo-lookbook-image-2.jpg" alt="Lookbook Image" />
+							<div class="col half">
+								<img src="images/demo-lookbook-image-2.jpg" alt="Lookbook Image" />
 							</div>
-							<div class="col onethird">
-								<img src="demo-lookbook-image-3.jpg" alt="Lookbook Image" />
+							<div class="col half">
+								<img src="images/demo-lookbook-image-3.jpg" alt="Lookbook Image" />
 							</div>
-							<div class="col onethird">
-								<img src="demo-lookbook-image-4.jpg" alt="Lookbook Image" />
-							</div>
-							<div class="col onethird">
-								<img src="demo-lookbook-image-5.jpg" alt="Lookbook Image" />
-							</div>
-							<div class="col onethird">
-								<img src="demo-lookbook-image-6.jpg" alt="Lookbook Image" />
+							<div class="col half">
+								<img src="images/demo-lookbook-image-4.jpg" alt="Lookbook Image" />
 							</div>
 						</div>
 					</div>
