@@ -259,30 +259,26 @@
 						</div>
 					</div>
 					<div class="col twothirds">
-						<h2 class="h1">Dein Style und viele mehr <span>in unserem Lookbook</span></h2>
-						<p>
-							Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-						</p>
-						<a class="button solid" href="#">Lookbok ansehen</a><a class="button solid" href="#">Style einsenden</a>
+						<div class="v-center">
+							<div class="v-center-content">
+								<h2 class="h1">Dein Style und viele mehr <span>in unserem Lookbook</span></h2>
+								<p>
+									Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+								</p>
+								<a class="button solid" href="#">Lookbok ansehen</a><a class="button solid" href="#">Style einsenden</a>
+							</div>
+						</div>
 					</div>
 				</div>
 			</section>
-			<div class="row row-padding">
-				<div class="col onethird">
-					<h1>Col onethird</h1>
-					<p>
-						Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-					</p>
+			<section id="service-teaser">
+				<div class="row row-padding">
+					<div class="col onequarter">
+						<article class="service-teaser-item">
+
+						</article>
+					</div>
 				</div>
-				<div class="col twothirds">
-					<article>
-					<h1>Col twothirds</h1>
-					<p>
-						Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-					</p>
-					</article>
-				</div>
-			</div>
 
 			<div class="row row-padding">
 				<div class="col onequarter">
