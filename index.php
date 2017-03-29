@@ -219,7 +219,9 @@
 				<div class="row">
 					<div class="col twothirds">
 						<div class="split-content">
-							<h2 class="h1">Konfiguriere<span>dein eigenes Produkt</h2>
+							<header>
+								<h2 class="h1">Konfiguriere<span>dein eigenes Produkt</span></h2>
+							</header>
 							<p>
 								Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 							</p>
@@ -241,7 +243,7 @@
 				</div>
 			</section>
 			<section id="lookbook-teaser" class="grey-bg">
-				<div class="row row-padding slim-section ">
+				<div class="row row-padding slim-section global-wrap ">
 					<div class="col onethird">
 						<div class="row row-padding">
 							<div class="col half">
@@ -261,7 +263,9 @@
 					<div class="col twothirds">
 						<div class="v-center">
 							<div class="v-center-content">
-								<h2 class="h1">Dein Style und viele mehr <span>in unserem Lookbook</span></h2>
+								<header>
+									<h2 class="h1">Dein Style und viele mehr <span>in unserem Lookbook</span></h2>
+								</header>
 								<p>
 									Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 								</p>
@@ -271,11 +275,24 @@
 					</div>
 				</div>
 			</section>
-			<section id="service-teaser">
+			<section id="service-teaser" class="global-wrap slim-section center">
+				<div class="row row-padding">
+					<header class="col full">
+						<h2 class="h1">Wir bieten Dir <span>beim Einkauf in unserem Shop</span></h2>
+					</header>
+				</div>
 				<div class="row row-padding">
 					<div class="col onequarter">
 						<article class="service-teaser-item">
-
+							<div class="service-teaser-item-icon">
+								<img src="images/icons/shipping-box.svg" alt="Versand Icon" />
+							</div>
+							<header>
+								<h3>Kostenloser Versand</h3>
+							</header>
+							<p>
+								innerhalb Deutschlands ab 49€ Warenwert.
+							</p>
 						</article>
 					</div>
 				</div>
