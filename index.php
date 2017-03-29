@@ -281,7 +281,7 @@
 						<h2 class="h1">Wir bieten Dir <span>beim Einkauf in unserem Shop</span></h2>
 					</header>
 				</div>
-				<div class="row row-padding">
+				<div class="row row-padding service-teaser-items ">
 					<div class="col onequarter">
 						<article class="service-teaser-item">
 							<div class="service-teaser-item-icon">
@@ -295,8 +295,47 @@
 							</p>
 						</article>
 					</div>
+					<div class="col onequarter">
+						<article class="service-teaser-item">
+							<div class="service-teaser-item-icon">
+								<img src="images/icons/diamond.svg" alt="Diamant Icon" />
+							</div>
+							<header>
+								<h3>Original SWAROVSKI</h3>
+							</header>
+							<p>
+								Für dein Produkt verwenden wir original SWAROVSKI Steine.
+							</p>
+						</article>
+					</div>
+					<div class="col onequarter">
+						<article class="service-teaser-item">
+							<div class="service-teaser-item-icon">
+								<img src="images/icons/gear.svg" alt="Zahnrad Icon" />
+							</div>
+							<header>
+								<h3>Wertvolle Handarbeit</h3>
+							</header>
+							<p>
+								All unsere Produkte werden von Hand gefertigt.
+							</p>
+						</article>
+					</div>
+					<div class="col onequarter">
+						<article class="service-teaser-item">
+							<div class="service-teaser-item-icon">
+								<img src="images/icons/germany.svg" alt="Deutschland Icon" />
+							</div>
+							<header>
+								<h3>100% Made in Germany</h3>
+							</header>
+							<p>
+								Wir produzieren unsere Produkte alle in Deutschland.
+							</p>
+						</article>
+					</div>
 				</div>
-
+			</section>
 			<div class="row row-padding">
 				<div class="col onequarter">
 					<h1>Col onequarter</h1>
